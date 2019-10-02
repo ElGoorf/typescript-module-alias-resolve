@@ -2,7 +2,7 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/typescript-jiw9h8)
 
-Minimal example of my issues trying to get typescript working with mdoule aliasing. 
+Minimal example of my issues trying to get typescript working with module aliasing. 
 
 Compiles fine with `noEmit: false` but when set to `true`, fails with:
 
